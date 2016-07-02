@@ -14,7 +14,7 @@ A function that monkey patches React and notifies you in the console when **pote
 npm install --save-dev why-did-you-update
 ```
  
- ### How to
+### How to
 
 ```js
 import React from 'react'
