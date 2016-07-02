@@ -63,4 +63,4 @@ export const whyDidYouUpdate = (React, opts = {}) => {
   return React
 }
 
-export default whyDidYouUpdate
+module.exports = whyDidYouUpdate
